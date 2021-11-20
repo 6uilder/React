@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.tab-ul {
+  list-style: none;
+}
+
+.tab-li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
